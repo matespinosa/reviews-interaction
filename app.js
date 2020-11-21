@@ -36,6 +36,15 @@ const reviews = [
     text:
       'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ',
   },
+  {
+    id: 5,
+    name: 'mateo espinosa',
+    job: 'front-end developer',
+    img:
+      'https://lh3.googleusercontent.com/ogw/ADGmqu_xqKVND-V6uY1aZk4wES5Xmuv-nbhrfRhmjZk6mp8=s64-c-mo',
+    text:
+      'Soy Mateo Espinosa tengo 24 años y soy un apasionado al desarrollo web, marketing y diseño de productos digitales. Estudie Realaciones Internacionales y Estudios Políticos pero mi pasión por la tecnología me hizo cambiar de rumbo y conseguir nuevos objetivos.',
+  }
 ];
 
 // select items 
